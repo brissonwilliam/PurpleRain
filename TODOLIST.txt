@@ -1,9 +1,0 @@
-//////////////// Classes /////////////////////
-1) GameStateManager (stack)
-2) abstract State; render(), update(), handleInput()
-3) MenuState: State;
-4) PlayState: State;
-
-
-///////////////// Art /////////////////
-* Make Assets
