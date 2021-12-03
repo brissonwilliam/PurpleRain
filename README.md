@@ -10,5 +10,11 @@ The code could definitely have some improvements. This was coded when I was a yo
 1. Clone or download the ZIP of the repo
 2. Open `index.html` in your favorite web browser
 
+### See what it looks like
+This project is hosted on github pages here!
+
+https://brissonwilliam.github.io/PurpleRain/
+
+
 ### Licence
 MIT
