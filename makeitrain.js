@@ -9,8 +9,8 @@
 //Get the drawing zone
 var a_canvas = document.getElementById("a");
 var context = a_canvas.getContext("2d");
-context.canvas.width  = window.innerWidth;
-context.canvas.height = window.innerHeight;
+context.canvas.width  = window.screen.availWidth;
+context.canvas.height = window.screen.availHeight;
 
 //Setting up raindrops, cloud and Timer
 var drops = []

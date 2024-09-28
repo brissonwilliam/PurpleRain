@@ -1,6 +1,6 @@
 class Cloud
 {
-	constructor(xpos, a_context, a_canvas)
+  constructor(xpos, a_context, a_canvas)
   {
   	this.x = xpos;
     //Max x speed is between 3 and 5 pixels excluded
